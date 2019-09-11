@@ -10400,7 +10400,7 @@ a.text-dark:hover {
 .ellipse{
 	width: 65px;
 	height: 63px;
-	background: url(shariki.svg)135px;
+	background: url('shariki.svg')135px;
 	float: left;
 	margin-right: 150px;
 }
