@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg8" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="Shariki.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 144.8 47.3"
+	 style="enable-background:new 0 0 144.8 47.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#path815_1_);}
+	.st1{fill:url(#path815-1_1_);}
+	.st2{fill:url(#path815-1-5_1_);}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="49.28497" inkscape:cy="44.684441" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="32" inkscape:zoom="2.075188" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-280.33124)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	
+		<radialGradient id="path815_1_" cx="-93.8063" cy="545.9116" r="5.6885" gradientTransform="matrix(5.8187 0 0 -5.8452 557.877 3504.0703)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FF0000"/>
+		<stop  offset="1" style="stop-color:#FF00FF;stop-opacity:0"/>
+	</radialGradient>
+	
+		<path id="path815" sodipodi:cx="8.3343754" sodipodi:cy="288.66562" sodipodi:end="6.2826676" sodipodi:rx="8.3343754" sodipodi:ry="8.3343754" sodipodi:start="0" sodipodi:type="arc" class="st0" d="
+		M47.3,304c0,13-10.6,23.6-23.6,23.6S0,317,0,304c0-13,10.6-23.6,23.6-23.6C36.7,280.3,47.2,290.9,47.3,304l-23.6,0L47.3,304z"/>
+	
+		<radialGradient id="path815-1_1_" cx="-93.8063" cy="545.9116" r="5.6885" gradientTransform="matrix(5.8187 0 0 -5.8452 655.377 3504.0698)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFF00"/>
+		<stop  offset="1" style="stop-color:#FFFF00;stop-opacity:0"/>
+	</radialGradient>
+	
+		<path id="path815-1" sodipodi:cx="42.730209" sodipodi:cy="288.66562" sodipodi:end="6.2826676" sodipodi:rx="8.3343754" sodipodi:ry="8.3343754" sodipodi:start="0" sodipodi:type="arc" class="st1" d="
+		M144.8,304c0,13-10.6,23.6-23.6,23.6c-13,0-23.6-10.6-23.6-23.6c0-13,10.6-23.6,23.6-23.6C134.2,280.3,144.7,290.9,144.8,304
+		l-23.6,0L144.8,304z"/>
+	
+		<radialGradient id="path815-1-5_1_" cx="-93.8063" cy="545.9116" r="5.6885" gradientTransform="matrix(5.8187 0 0 -5.8452 606.6269 3504.0701)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#00FF00"/>
+		<stop  offset="1" style="stop-color:#FFFF00;stop-opacity:0"/>
+	</radialGradient>
+	
+		<path id="path815-1-5" sodipodi:cx="25.532291" sodipodi:cy="288.66562" sodipodi:end="6.2826676" sodipodi:rx="8.3343754" sodipodi:ry="8.3343754" sodipodi:start="0" sodipodi:type="arc" class="st2" d="
+		M96,304c0,13-10.6,23.6-23.6,23.6c-13,0-23.6-10.6-23.6-23.6c0-13,10.6-23.6,23.6-23.6C85.4,280.3,96,290.9,96,304l-23.6,0L96,304z
+		"/>
+</g>
+</svg>
