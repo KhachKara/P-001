@@ -5,12 +5,28 @@
 	    <meta charset="UTF-8">
 	    <meta http-equiv="refresh" content=""/>
 	    <title>Простой мессенджер</title>
+
+	    <script>
+	 		function changeText0()
+				{
+				var Editbox1 = document.getElementById('Editbox1').value; //выцепляем значение value первого вводимого поля
+				var Editbox2 = document.getElementById('Editbox2').value; //выцепляем значение value второго вводимого поля
+				var result = Editbox1 * Editbox2
+				 document.getElementById('result').innerHTML = result.toFixed(2);
+				var button = document.getElementsByName('la'); //определяем какой из пунктов выбран и запоминаем его value в переменную button
+				        button = []; // задаем пустой массив button
+				            if (buttons[i].type == "button" && buttons[i]) 
+				            button[button.length] = buttons[i].value;
+				    var result = result * button
+				        document.getElementById('result').innerHTML = result.toFixed(2);
+				}       
+		</script>
 	</head>
 	<body class='container container_khach'>
 		<div class='nachalo'>
 			<div style="text-align:center">
 				<div class='Rectangle_2'></div>
-				<div class='ellipse'></div>
+				
 				<form action="https://khachkara.github.io/P-001/index.html" method="get">
 					<button id='btn1'  class='Rectangle_21 knopka'>
 						<div class='text_center'>
@@ -18,6 +34,7 @@
 						</div>
 					</button>
 				</form>
+				<div class='ellipse'></div>
 			</div>
 			<textarea class='Rectangle_3'></textarea>
 		</div>
